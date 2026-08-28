@@ -27,4 +27,7 @@ I'm a **CSE student** currently learning **Web Development** with a passion for 
 ---
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn]www.linkedin.com/in/
+imtiaz-ul-islam-b93995419
+Vanity URL name
+
