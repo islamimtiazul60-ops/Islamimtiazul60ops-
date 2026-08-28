@@ -1,4 +1,4 @@
-# Hi, I'm Imtiaz Ul Islam 👋
+# Hi, I'm Imtiaz Ul Islam 
 
 I'm a CSE student currently learning Web Development.
 
