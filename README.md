@@ -25,9 +25,6 @@ I'm a **CSE student** currently learning **Web Development** with a passion for 
 - 🤝 Contribute to Open Source
 
 ---
-
-📫 **Connect with me:**  
-[![LinkedIn]www.linkedin.com/in/
-imtiaz-ul-islam-b93995419
-Vanity URL name
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-ul-islam-b93995419)
 
